@@ -1,2 +1,2 @@
 # covid19
-Python code - exponential spread of a disease/how to flatten the curve
+A Python code to simulate the exponential spread of Covid-19
